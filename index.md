@@ -1,5 +1,4 @@
 Guide to Krommerijn 8, Utrecht
-
 ==============
 
 Dear guest(s),
@@ -10,7 +9,7 @@ All the best,
 
 Laurens Bogaardt
 
-==============
+---
 
  - [Check In and Out(!)](#check-in-and-out-)
  - [Freezer (!)](#freezer-)
@@ -31,8 +30,8 @@ Laurens Bogaardt
  - [Bike Trips](#bike-trips)
  - [Museum](#museum)
  - [Canoe](#canoe)
- 
-==============
+
+---
 
 # Check In & Out (!)
 
