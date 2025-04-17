@@ -9,9 +9,8 @@ All the best,
 
 Laurens Bogaardt
 
----
 
- - [Check In and Out(!)](#check-in-and-out-)
+ - [Check In and Out (!)](#check-in-and-out-)
  - [Freezer (!)](#freezer-)
  - [Toilet (!)](#toilet-)
  - [Coffee and Tea](#coffee-and-tea)
@@ -31,9 +30,7 @@ Laurens Bogaardt
  - [Museum](#museum)
  - [Canoe](#canoe)
 
----
-
-# Check In & Out (!)
+# Check-In and -Out (!)
 
 I will hide the keys outside the apartment and will let you know the location in a private message. That way, you can enter independently. If there are any problems, you can ring the bell of my neighbours (for example Trudy on number 10) or call my sister Carlijn (+31631144027) who also lives in Utrecht. You can stay in the apartment until around 18:00 the day of check-out. When you leave, please put the keys back in the same hiding spot.
 
