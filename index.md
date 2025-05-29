@@ -31,7 +31,7 @@ Laurens Bogaardt
 
 # Check-In and -Out (!)
 
-I will meet you at my apartment to hand over the keys for the check-in. On the day of check-out, you can stay in the apartment until around 14:00. Let me know if you need to stay longer. When you leave, please put the keys in my mailbox number 8.
+I will meet you at my apartment to hand over the keys for the check-in. Simply ring the bell at number 8. On the day of check-out, you can stay in the apartment until around 14:00. Let me know if you need to stay longer. When you leave, please throw the keys in my mailbox.
 
 ![Mailbox](./images/Mailbox.jpg)
 
