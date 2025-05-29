@@ -3,7 +3,7 @@ Guide to Krommerijn 8, Utrecht
 
 Dear guest(s),
 
-Welcome to Krommerijn 8. I hope you have a nice stay in Utrecht. This guide will give you some additional information about my apartment and the surrounding area. If you have any questions, feel free to contact me via Airbnb or via WhatsApp (+31613151353). For emergencies, it may be better to call or WhatsApp my sister Carlijn (+31631144027).
+Welcome to Krommerijn 8. I hope you have a nice stay in Utrecht. This guide will give you some additional information about my apartment and the surrounding area. If you have any questions, feel free to contact me via Airbnb or by phone/WhatsApp (+31613151353).
 
 All the best,
 
@@ -11,7 +11,6 @@ Laurens Bogaardt
 
 
  - [Check In and Out (!)](#check-in-and--out-)
- - [Freezer (!)](#freezer-)
  - [Toilet (!)](#toilet-)
  - [Coffee and Tea](#coffee-and-tea)
  - [Cleaning](#cleaning)
@@ -32,11 +31,9 @@ Laurens Bogaardt
 
 # Check-In and -Out (!)
 
-I will hide the keys outside the apartment and will let you know the location in a private message. That way, you can enter independently. If there are any problems, you can ring the bell of my neighbours (for example Trudy on number 10) or call my sister Carlijn (+31631144027) who also lives in Utrecht. You can stay in the apartment until around 18:00 the day of check-out. When you leave, please put the keys back in the same hiding spot.
+I will meet you Friday evening at my apartment to hand over the keys. You can stay in the apartment until around 14:00 the day of check-out. When you leave, please put the keys in my mailbox number 8.
 
-# Freezer (!)
-
-You can use the fridge and the freezer during your stay, but please make sure to close the freezer door properly. It needs to be pushed hard or a small gap will remain.
+![Mailbox](./images/Mailbox.jpg)
 
 # Toilet (!)
 
@@ -70,11 +67,13 @@ Glass goes in the small bin.
 
 ![Glass](./images/Glass.jpg)
 
+<!---
 # Heating
 
 The heating automatically follows a programme which sets the temperature at 20° between 8:30-10:00 and between 17:00-23:00. It is 17.5° during the other times. If you want to change the temperature, the easiest way is to use the small arrows.
 
 ![Heating](./images/Heating.jpg)
+-->
 
 # Washing and Drying
 
