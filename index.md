@@ -34,7 +34,7 @@ Laurens Bogaardt
 
 # Check-In and -Out (!)
 
-I will hide the keys outside the apartment and will let you know the location in a private message. That way, you can enter independently. If there are any problems, you can ring the bell of my neighbours (for example Trudy on number 10) or call my sister Carlijn (+31631144027) who also lives in Utrecht. On the day of check-out, uou can stay in the apartment until around 15:00. Let me know if you need to stay longer. When you leave, please put the keys back in the same hiding spot.
+I will hide the keys outside the apartment and will let you know the location in a private message. That way, you can enter independently. If there are any problems, you can ring the bell of my neighbours (for example Trudy on number 10) or call my sister Carlijn (+31631144027) who also lives in Utrecht. On the day of check-out, you can stay in the apartment until around 15:00. Let me know if you need to stay longer. When you leave, please put the keys back in the same hiding spot.
 
 <!---
 I will meet you at my apartment to hand over the keys for the check-in. Simply ring the bell at number 8. On the day of check-out, you can stay in the apartment until around 14:00. Let me know if you need to stay longer. When you leave, please throw the keys in my mailbox.
