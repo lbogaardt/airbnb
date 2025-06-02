@@ -23,6 +23,8 @@ Laurens Bogaardt
  - [Oven and Microwave](#oven-and-microwave)
  - [Dishwasher](#dishwasher)
  - [Books and Games](#books-and-games)
+ - [WiFi](#wifi)
+ - [Train Stations](#train-stations)
  - [Parking](#parking)
  - [Supermarket](#supermarket)
  - [Bars and Restaurants](#bars-and-restaurants)
